@@ -1,5 +1,5 @@
 
--- ASSIGNMENT 2 : TASK 1 - SHOPPING HISTORY
+-- ASSIGNMENT 1 : TASK 1 - SHOPPING HISTORY
 -- ********************************************
 
 Create database "INEURON_ASGMT_DB";
