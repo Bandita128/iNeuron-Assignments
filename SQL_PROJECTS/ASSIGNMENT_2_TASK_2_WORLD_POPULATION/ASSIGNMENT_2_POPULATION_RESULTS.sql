@@ -1,5 +1,5 @@
 
--- ASSIGNMENT 1 : ANALYSING THE WORLD POPULATION 
+-- ASSIGNMENT 2 : ANALYSING THE WORLD POPULATION 
 -- *********************************************
 
 Create database world_population;
