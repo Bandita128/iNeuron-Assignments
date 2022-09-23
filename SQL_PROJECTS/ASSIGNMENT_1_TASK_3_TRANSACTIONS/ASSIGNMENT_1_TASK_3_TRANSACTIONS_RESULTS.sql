@@ -1,5 +1,5 @@
 
--- ASSIGNMENT 2 : TASK 3 - TRANSACTIONS
+-- ASSIGNMENT 1 : TASK 3 - TRANSACTIONS
 -- ********************************************
 
 use "INEURON_ASGMT_DB";
