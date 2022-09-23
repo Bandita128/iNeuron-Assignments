@@ -1,5 +1,5 @@
 
--- ASSIGNMENT 1 - Analyzing Road Safety in the UK 
+-- ASSIGNMENT 2 - Analyzing Road Safety in the UK 
 -- **********************************************
 
 Create database accidents;
