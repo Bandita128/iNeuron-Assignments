@@ -1,5 +1,5 @@
 
--- ASSIGNMENT 2 : TASK 2 - PHONES AND CALLS
+-- ASSIGNMENT 1 : TASK 2 - PHONES AND CALLS
 -- ********************************************
 
 use "INEURON_ASGMT_DB";
